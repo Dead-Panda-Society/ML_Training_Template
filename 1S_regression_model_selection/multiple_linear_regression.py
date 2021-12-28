@@ -2,7 +2,8 @@
 
 # Importing the libraries
 import numpy as np
-import matplotlib.pyplot as plt
+# no visual graph in this template, plt is commented out as such
+# import matplotlib.pyplot as plt
 import pandas as pd
 
 # Importing the dataset

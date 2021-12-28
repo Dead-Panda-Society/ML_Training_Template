@@ -1,8 +1,9 @@
 # Decision Tree Classification
 
 # Importing the libraries
-import numpy as np
-import matplotlib.pyplot as plt
+# numpy and plt visual graph are not used here, and is commented out as such
+# import numpy as np
+# import matplotlib.pyplot as plt
 import pandas as pd
 
 # Importing the dataset
