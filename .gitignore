@@ -1,1 +1,6 @@
+# Git Ignore from Personal Files (contains image files, pdf, and compressed zip)
 dataset/
+__pycache__/
+**.zip
+**.pdf
+**.mp4
